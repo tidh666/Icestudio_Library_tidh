@@ -1,0 +1,16 @@
+{
+  "name": "Library",
+  "version": "1.0",
+  "authors" : [
+    {
+      "name": "Juan Perona",
+    },
+
+  ],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": "https://github.com/tidh666/Icestudio_Library_tidh"
+  }
+}
